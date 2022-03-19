@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-##Overview
+## Overview
 
 ### Links
 
